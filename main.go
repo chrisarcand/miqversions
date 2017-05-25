@@ -16,6 +16,7 @@ func main() {
 		[]string{"Darga", "5.6.x", "4.1"},
 		[]string{"Euwe", "5.7.x", "4.2"},
 		[]string{"Fine", "5.8.x (pending)", "4.5 (pending)"},
+		[]string{"Gaprindashvili", "5.9.x (pending)", "TBD (pending)"},
 	}
 
 	table := tablewriter.NewWriter(os.Stdout)
