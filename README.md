@@ -34,10 +34,11 @@ $ brew install miqversions
 
 #### Other platforms
 
-[Golang](https://golang.org/) must be installed.
+[Rust](https://www.rust-lang.org) must be installed.
 
 ```bash
-$ go get github.com/chrisarcand/miqversions
+$ cargo build --release
+$ cp target/release/miqversions /some/where/on/your/path/
 ```
 
 ### License
