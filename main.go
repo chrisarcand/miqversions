@@ -26,5 +26,6 @@ func main() {
 	for _, v := range data {
 		table.Append(v)
 	}
+	table.SetAlignment(tablewriter.ALIGN_LEFT)
 	table.Render()
 }
