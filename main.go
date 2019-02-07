@@ -16,7 +16,7 @@ func main() {
 		[]string{"Darga", "5.6.z", "4.1", "2.2.x", "9.4.x", ""},
 		[]string{"Euwe", "5.7.z", "4.2", "2.3.x", "9.5.x", ""},
 		[]string{"Fine", "5.8.z", "4.5", "2.3.x", "9.5.x", ""},
-		[]string{"Gaprindashvili", "5.9.z", "4.6", "2.3.x", "9.5.x", "2.4.y."},
+		[]string{"Gaprindashvili", "5.9.z", "4.6", "2.3.x", "9.5.x", "2.4.y"},
 		[]string{"Hammer", "5.10.z", "4.7", "2.4.x", "9.5.x", "2.7.y"},
 		[]string{"Ivanchuck", "5.11.z", "4.8", "2.4.x", "9.5.x", "2.?"},
 	}
