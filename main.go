@@ -18,7 +18,7 @@ func main() {
 		[]string{"Fine", "5.8.z", "4.5", "2.3.x", "9.5.x"},
 		[]string{"Gaprindashvili", "5.9.z", "4.6", "2.3.x", "9.5.x"},
 		[]string{"Hammer", "5.10.z", "4.7", "2.4.x", "9.5.x"},
-		[]string{"Ivanchuck", "5.11.z", "4.8", "2.4.x", "9.5.x"},
+		[]string{"Ivanchuk", "5.11.z", "4.8", "2.4.x", "10.x"},
 	}
 
 	table := tablewriter.NewWriter(os.Stdout)
